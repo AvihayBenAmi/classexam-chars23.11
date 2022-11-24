@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class exersice8 {
+public class exersice3 {
     public static void main(String[] args) {
         System.out.println(ifEquals());
     }

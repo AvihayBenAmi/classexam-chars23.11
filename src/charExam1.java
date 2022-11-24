@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class exercise3 {
+public class charExam1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         char[] arr = {'A', 'v', 'i', 'h', 'a', 'y'};

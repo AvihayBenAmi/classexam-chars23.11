@@ -1,5 +1,4 @@
-import java.util.Scanner;
-public class exrecise4 {
+public class charExam2 {
     public static void main(String []args){
         char[] arr = {'A','v', 'i', 'h', 'a', 'C'};
         System.out.println(hasDuplicate(arr));
